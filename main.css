@@ -1,0 +1,31 @@
+html, body {
+  font-family: serif;
+  font-size: 16px;
+}
+
+.countdown-container {
+  display: grid;
+  /* width: 847px; */
+  margin: auto;
+  align-content: center;
+  justify-items: center;
+
+  /* margin: 5rem; */
+}
+
+.time-container {
+  display: flex;
+}
+
+.time {
+  margin: .2rem;
+  background-color: lightpink;
+  border-radius: 1rem;
+  padding: 2rem;
+  font-size: 100px;
+}
+
+/* #hour,#min,#sec {
+  font-size: 3rem;
+  margin-right: 1rem;
+} */
